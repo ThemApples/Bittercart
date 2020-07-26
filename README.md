@@ -6,8 +6,8 @@ Bittercart is a program on android made for saving lists of groceries.
 
 ## Installation
 
-This application CAN ONLY BE USED BY USERS WITH THE ANDROID PLATFORM.
-The APK is located in the the builds folder.
+This application CAN ONLY BE USED BY USERS WITH THE ANDROID PLATFORM.<br />
+APK coming soon!
 
 ## Contributors 
 
