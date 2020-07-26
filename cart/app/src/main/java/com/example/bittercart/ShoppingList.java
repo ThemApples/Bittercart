@@ -1,9 +1,12 @@
 package com.example.bittercart;
 
+import java.util.ArrayList;
+
 public class ShoppingList {
     private String mLine1;
     private String mLine2;
     private String mLine3;
+    private ArrayList elements;
     private boolean expandable;
     public ShoppingList(String line1, String line2, String line3) {
         mLine1 = line1;
@@ -21,7 +24,6 @@ public class ShoppingList {
     {
         return mLine3;
     }
-
     public void setExpandable(boolean expand)
     {
         expandable = expand;
